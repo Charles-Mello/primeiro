@@ -123,8 +123,6 @@ body {
     font-family: var(--font-secundaria);
     font-size: 1.5rem;
     
-
-
 }
 
 .foto__editar{
@@ -132,11 +130,7 @@ body {
     width: 50% ;
 
 }
-.foto__editar2{
-    border-radius: 30px;
-    width: 30% ;
 
-}
 
 @media (max-width: 1200px ){
     .cabelho{
